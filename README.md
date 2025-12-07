@@ -5,6 +5,12 @@ The full interactive Power BI dashboard can be accessed here:
 
 ➡️ **[Download PBIX from Google Drive](https://drive.google.com/drive/folders/1F4hQGa_yMUQ_c8YLCz6D1o6H7cZWcX1a?usp=drive_link)**  
 
+📌 Sources & Credits
+- Data Source: U.S. Bureau of Transportation Statistics 
+•	https://www.transtats.bts.gov/
+•	https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FIL&QO_fu146_anzr=Nv4%20Pn44vr45 
+
+
 📌 Project Overview
 
 Built an end-to-end dynamic pricing system combining machine learning, price elasticity modeling, and inventory simulation to optimize airline pricing decisions. Delivered insights through interactive Power BI dashboards, enabling executives to explore fare trends, competitive positioning, and revenue optimization strategies.
