@@ -7,43 +7,43 @@ Built an end-to-end dynamic pricing system combining machine learning, price ela
 📌 Key Components
 1. Machine Learning Fare Prediction
 
-  Model: LightGBM Regressor
-  
-  Predicts average ticket fare using route, seasonality, airline, and competitor data.
-  
-  Performance: MAE ≈ $13.2
+    Model: LightGBM Regressor
+    
+    Predicts average ticket fare using route, seasonality, airline, and competitor data.
+    
+    Performance: MAE ≈ $13.2
 
 2. Price Elasticity Modeling
 
-  Simulated fare multipliers (0.8 → 1.2) to estimate demand sensitivity.
-  
-  Identified optimal pricing zone around 0.9–1.0 multiplier, where revenue peaks.
+    Simulated fare multipliers (0.8 → 1.2) to estimate demand sensitivity.
+    
+    Identified optimal pricing zone around 0.9–1.0 multiplier, where revenue peaks.
 
 3. Inventory-Aware Pricing Simulation
-
-  Modeled how price and demand change based on booking window (0–90 days) and seats remaining.
   
-  Generated revenue & demand heatmaps to reduce spoilage and optimize load factor.
-
-4. Power BI Dashboards
-
-Three fully interactive dashboards:
+      Modeled how price and demand change based on booking window (0–90 days) and seats remaining.
+      
+      Generated revenue & demand heatmaps to reduce spoilage and optimize load factor.
   
-  1. Historical & Predicted Fare Analysis
+  4. Power BI Dashboards
+
+  Three fully interactive dashboards:
     
-  2. Elasticity-Based Pricing Simulator
-    
-  3. Inventory-Driven Dynamic Pricing Simulator
+    1. Historical & Predicted Fare Analysis
+      
+    2. Elasticity-Based Pricing Simulator
+      
+    3. Inventory-Driven Dynamic Pricing Simulator
 
 📌 Key Insights
   
-  Revenue uplift potential: 10–14% with optimized price multipliers.
-  
-  Spoilage reduction: 30–40% via inventory-aware dynamic pricing.
-  
-  Seasonal peaks: Apr–Sep, troughs: Oct–Dec.
-  
-  Competitor prices strongly influence predicted fare and optimal strategy.
+    Revenue uplift potential: 10–14% with optimized price multipliers.
+    
+    Spoilage reduction: 30–40% via inventory-aware dynamic pricing.
+    
+    Seasonal peaks: Apr–Sep, troughs: Oct–Dec.
+    
+    Competitor prices strongly influence predicted fare and optimal strategy.
 
 📌 Business Impact
 
