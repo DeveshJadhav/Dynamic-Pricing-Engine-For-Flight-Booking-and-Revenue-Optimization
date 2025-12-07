@@ -3,7 +3,7 @@
 ### 🔗 Download Power BI Dashboard
 The full interactive Power BI dashboard can be accessed here:
 
-➡️ **[Download PBIX from Google Drive]((https://drive.google.com/drive/folders/1F4hQGa_yMUQ_c8YLCz6D1o6H7cZWcX1a?usp=drive_link))**  
+➡️ **[Download PBIX from Google Drive](https://drive.google.com/drive/folders/1F4hQGa_yMUQ_c8YLCz6D1o6H7cZWcX1a?usp=drive_link)**  
 
 📌 Project Overview
 
